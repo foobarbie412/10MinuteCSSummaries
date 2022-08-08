@@ -1,7 +1,7 @@
 # 10-Minute CS Summaries
 ### Handwritten summaries of Programming Language topics and CS concepts that can be revised in under 10 minutes!
 
-Great help for new projects or interview prep. 
+Great help for interview prep or revising before starting a project. 
 
 Best viewed on iPad, on ReMarkable reader or as a printable. 
 
